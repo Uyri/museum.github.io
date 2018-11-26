@@ -1145,6 +1145,10 @@ form .btn-primary{
 	justify-content: space-between;
 }
 
+.wrapper__animals-href{
+	width: 185px;
+}
+
 .wrapper__animals-href .about__button{
 	padding: 10px 20px; 
 }
